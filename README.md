@@ -8,8 +8,9 @@ Como estás meu nobre confrade visitante? Respondo pela alcunha de Gabriel Vitor
 
 <div align="center">
 
- Trabalho como estagiário em desenvolvimento **WEB** <br>
-Atualmente estou aprendendo **PHP**, **SQL**, **GIT** e **LINUX**
+Trabalho como estagiário em desenvolvimento **WEB** <br>
+Atualmente estou aprendendo **PHP**, **SQL**, **GIT** e alguns conceitos de **LINUX**
+
 </div>
 
 <div align="center">
@@ -20,9 +21,9 @@ Atualmente estou aprendendo **PHP**, **SQL**, **GIT** e **LINUX**
 
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/apenasLotus">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=apenasLotus&langs_count=7&bg_color=DEG,4b0082,dc143c&title_color=fff&text_color=fff&border_color=fff&border_radius=10&count_private=true& include_all_commits=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasLotus&langs_count=7&bg_color=DEG,dc143c,4b0082&title_color=fff&text_color=fff&border_color=fff&border_radius=10&layout_compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apenasLotus&langs_count=7&bg_color=DEG,4b0082,dc143c&title_color=fff&text_color=fff&border_color=fff&border_radius=0&count_private=true& include_all_commits=true&locale=pt-br&hide_border=true"/>
+  <img height="178em" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasLotus&langs_count=7&bg_color=DEG,dc143c,4b0082&title_color=fff&text_color=fff&border_color=fff&border_radius=0&hide_border=true"/>
  </a>
 </div>
