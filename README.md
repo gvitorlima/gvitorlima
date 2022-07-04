@@ -20,7 +20,7 @@ Atualmente estou aprendendo **PHP**, **SQL**, **GIT** e **LINUX**
 
 </div>
 
-<div align="center">
+<div>
 <a href="https://github.com/apenasLotus">
  
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apenasLotus&bg_color=DEG,4b0082,dc143c&title_color=fff&text_color=fff&border_color=fff&border_radius=10&count_private=true& include_all_commits=true"/> 
