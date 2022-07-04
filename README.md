@@ -23,7 +23,7 @@ Atualmente estou aprendendo **PHP**, **SQL**, **GIT** e alguns conceitos de **LI
 
 <div align="center">
 <a href="https://github.com/apenasLotus">
-  <img height="148em" width='44%' src="https://github-readme-stats.vercel.app/api?username=apenasLotus&langs_count=7&bg_color=DEG,4b0082,dc143c&title_color=fff&text_color=fff&border_color=fff&border_radius=0&count_private=true& include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=7200"/>
-  <img height="149em" width='55%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasLotus&langs_count=7&bg_color=DEG,dc143c,4b0082&title_color=fff&text_color=fff&border_color=fff&border_radius=0&hide_border=true&cache_seconds=7200&layout=compact"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=apenasLotus&langs_count=7&bg_color=DEG,4b0082,dc143c&title_color=fff&text_color=fff&border_color=fff&border_radius=0&count_private=true& include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=7200"/>
+  <img height="150em" width='55%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasLotus&langs_count=7&bg_color=DEG,dc143c,4b0082&title_color=fff&text_color=fff&border_color=fff&border_radius=0&hide_border=true&cache_seconds=7200&layout=compact"/>
  </a>
 </div>
