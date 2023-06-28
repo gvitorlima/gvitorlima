@@ -14,6 +14,6 @@ I am currently an intern and work on creating and maintaining **RESTful API`s**,
 ### Studying and practicing
 
 > Practice git versioning, general backend programming basics, such as:  
-> Design patterns, SOLID, design patterns, SOLID, security, optimization, scalability and performance...
+> design patterns, SOLID, security, optimization, scalability and performance...
 
 Basic use of the terminal and Linux as a whole (Extra information. I'm using an Arch (smiley face here) ), database in general and whatever else makes me want to learn (Process of creating and validating a jwt token just out of curiosity).
