@@ -9,7 +9,7 @@ And I create some in personal projects, but that's beside the point!
 
 >I'm a **backend** programmer with a keen interest in everything.  
 
-I am currently working on creating and maintaining RESTFULL **API`s**, using **native PHP**, **PostgresSQL**, **Firebird** and Laravel**** as the main tools
+I am currently working on creating and maintaining RESTFULL **API`s**, using **native PHP**, **PostgresSQL**, **Firebird** and **Laravel** as the main tools
 
 ### Studying and practicing
 
